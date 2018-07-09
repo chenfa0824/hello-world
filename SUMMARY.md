@@ -1,10 +1,9 @@
-# SpringBoot
+# Summary
 
+SpringBoot
 
-## 功能概述
-
-springboot学习记录
-
+* [Introduction](README.md)
+* springboot学习记录
    * [1.) SpringBoot(一)_快速实战搭建项目](/springboot(一)/SpringBoot(一)_快速实战搭建项目.md)
    * [2.) SpringBoot(二)_项目属性配置](/springboot(二)/SpringBoot(二)_项目属性配置.md)
    * [3.) SpringBoot(三)_controller的使用](/springboot(三)/SpringBoot(三)_controller的使用.md)
@@ -14,15 +13,3 @@ springboot学习记录
    * [7.) SpringBoot(七)_统一异常处理](/springboot(七)/SpringBoot(七)_统一异常处理.md)
    * [8.) SpringBoot(八)_springboot集成swagger2](/springboot(八)/SpringBoot(八)_springboot集成swagger2.md)
    * [9.) SpringBoot(九)_springboot集成MyBatis](/springboot(九)/SpringBoot(九)_springboot集成MyBatis.md)
-   * [10.) SpringBoot(十)_springboot集成Redis](/springboot(十)/SpringBoot(十)_springboot集成Redis.md)
-   
-   
-   
-   
-  
-
-
-## 作者
-
-- 养码青年-Style
-- 感觉写的不错，就点个star支持一下吧！
